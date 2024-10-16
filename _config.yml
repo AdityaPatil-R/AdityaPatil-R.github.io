@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aditya Patil"
+title                    : "Aditya R. Patil"
 title_separator          : "-"
 name                     : &name "Aditya Patil"
 description              : &description "personal description"
@@ -25,10 +25,10 @@ author:
   name             : "Aditya Patil"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive Science @ UCLA"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Los Angeles, CA"
+  employer         : "UCLA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "adityapatil@g.ucla.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
